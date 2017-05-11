@@ -8,8 +8,8 @@ const reverseString = (word) => {
 //reverse the argument supplied and check if the reversed argument is the same with the argument supplied
   else {
     let reversedWord = [];
-    for (let i=word.length; i>0; i--) {
-        reversedWord.push(word.charAt(i-1));
+    for (let counter=word.length; counter>0; counter--) {
+        reversedWord.push(word.charAt(counter-1));
     }
     reversed = reversedWord.join('');
   }
