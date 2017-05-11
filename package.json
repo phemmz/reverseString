@@ -1,0 +1,15 @@
+{
+  "name": "reversestring",
+  "version": "1.0.0",
+  "description": "a function that returns the reverse of the string argument provided",
+  "main": "reverseString.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "reverse",
+    "string"
+  ],
+  "author": "adetunji femi <phemmzmcllroy@gmail.com>",
+  "license": "ISC"
+}
